@@ -1,0 +1,10 @@
+tr:nth-child(even) {
+    background-color: yellow
+}
+th {
+    background-color: green;
+    color: white;
+}
+th, td {
+    padding: 12px;
+}

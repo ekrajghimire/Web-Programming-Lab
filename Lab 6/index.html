@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Application Form</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    <form >
+        <fieldset>
+        Name:<input type="text" id="uname"> 	
+
+        <p>Please select your gender:</p>
+
+        <input type="radio" id="male" name="gender" value="male"> Male
+        <input type="radio" id="female" name="gender" value="female"> Female 
+        <input type="radio" id="other" name="gender" value="other"> Other <br>
+          <br> Mobile Number:
+        <input type="tel" id="mobile" name="phone"> <br>
+        <br>Email Id:
+        <input type="email" id="email" name="email"> <br>
+        <br>City:
+        <input type="text" id="city"> <br>
+        <br>State:
+        <input type="text" id="state"> <br>
+        <br>Country
+
+        <select id="country" placeholder="Select Country">
+          <option >India</option>
+          <option >USA</option>
+          <option >China</option>
+        </select>
+        <br> <input type="button" value="Submit" onclick="add()">
+        </fieldset>
+    </form>
+        
+</body>
+</html>
