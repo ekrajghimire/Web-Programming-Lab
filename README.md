@@ -22,12 +22,12 @@ exam dates, events etc.
 
 7. Design a web page to display timer in the left side of the web page using Java Script.
 
-8. Write a PHP program to input previous reading and present reading and prepare an electricity bill using the following conditions,
-   Units Consumed        Rate
-   <100                  Rs. 3/ Unit
-   Between 100 and 200   Rs. 4/ Unit
-   Between 200 and 300   Rs. 5/ Unit
-   Between >300          Rs. 6/ Unit
+8. Write a PHP program to input previous reading and present reading and prepare an electricity bill using the following conditions,<br>
+   Units Consumed        Rate <br>
+   <100                  Rs. 3/ Unit <br>
+   Between 100 and 200   Rs. 4/ Unit <br>
+   Between 200 and 300   Rs. 5/ Unit <br>
+   Between >300          Rs. 6/ Unit <br>
 
 9. Design the HTML form for student details with elements USN, first name, last name, username, password, confirm password, email, gender etc. Display the user input using PHP.
 
